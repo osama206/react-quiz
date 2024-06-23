@@ -59,7 +59,7 @@ To run the project locally, follow these steps:
    ```bash
    cd react-quiz
    ```
-3. **Install dependencies**
+3. **Install dependencies**:
    ```bash
    npm install
    ```
